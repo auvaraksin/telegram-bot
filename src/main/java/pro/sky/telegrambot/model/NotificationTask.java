@@ -23,8 +23,8 @@ public class NotificationTask {
         return idTask;
     }
 
-    public void setIdTask(Long idChat) {
-        this.idTask = idChat;
+    public void setIdTask(Long idTask) {
+        this.idTask = idTask;
     }
 
     public String getText() {
